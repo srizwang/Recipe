@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "recipeproject-167621",
+  "private_key_id": "3ff1224f289a34fbffb298a466ceb1c4b8427c9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0d1bkRf2sLS1r\nFZaVuUuqqU8v1FihWCpAZq5cpXef7td25lRXjO4ty79Jg4l7UFLwbToEExJid7C9\n/2VhLpfBzByAZ//3QBqyL04h/SqnJZDHzvh4F84h3dyTCw1AADIj4VfQ2GEl2sFC\nzvLYTLzD1CIRmIsal2nq2lI8pUwqtHBM5mU0Th3BWn5o1ql2JXtfycqgHaUMeACZ\n+9O4C+3KukVnKQ0Co6+GJs2TBY84HmHH8sJwhBTNHfjdG28j1tqUXnO6gf37FBeu\nZbtbQKyX7+zRAkFU4koMmcQSTyChBPjq0qRehNPGM3Op/zbylPt4J6hZZpDILuKd\nCRlEtZZXAgMBAAECggEBAKtKfsoq+M19EBgNJKI2f3CcRZIzbnCuW2RHUgaT9Ah0\nzkSH+NQk60nCk2z2kf7ezepw8lk9tPyLeNHOYW6tp9OFpiPnEtifGve32OSABQUj\nrdlJRSPQDJKuoBddrRTrWqwdzplnWEZy7W85ON0/cQg7CJ9E9/ukbh9BXD898h6x\nD6uMn+A2m2iVoj4huAI0sghNYr9C6zGi3+aHl8u1mYq1cQfub0+DjantJRxicryl\nAAolJv+1FoRV4micfmCWsIeGhRGkGFaUzulj8pGxjBQj6RM+FQ2Vw9zyqfgYog80\ngMeK0OBB2GFuJ17dl5GoQ6b3hLWn68avgnZp1tGR6RkCgYEA24J7gGbwdzC71s4o\nhqr/lsukriabT7lcsR91luo3w/r/U6WT0YR0Fj4C4LLhLapqBMAijSJlto81GPop\n3cMt6/xkFA49YjgGPZg3NFNtIliGAWeC8uIeUu96bOgUQAz6X8494pYtz2BzqTGt\nKx7jVp93yNRAyULwO/2DPGLR66MCgYEA0ndPOErhU0FuOZ/j+B3tSMO89kOuRIgL\nCS5up6B5o7BAXhSzRAloPiO+iqmyZUks8ld2Y3O1ZBWAtcieHpTiZSumz8r7EevV\nT+ogb7jng1waOCj3fwc0m1MSzzJJF18o9Sg0Z6iZShMXwTsVR7jHnF0UW06oISsc\nlCMQH6lk1b0CgYAP1t2EiWkGoLydJmkkNoiU4AL1EhIY8Z4vpb59ck8t1BnCdmsx\nLiaWSEk6342CFw7pYtfbaUT/pFvHfp2ww9m3cpHiJJjnUnWY0jgBjZeNZ+fbiBWZ\n4xkfEOq7mw+DA6y5Zw9uHzoVAbe22L/PIb5zzLP/CNnX6/2bxpJGtDbDkwKBgBcw\niC0Gqx8WRYPZ5y9udLegwZBM0sXAS57+W7jiiKSNhfoXw8zKUI8QNy1mFz7ruiUV\nl/jLRgA6Ek11Rl7OPsew8JdSoSlPV9iPTnWg5PlnS4hGk0aOz7ARjjAANWd617Nz\nc5q8S++KfQKQdP7LEEtdQiHxX7sP2f1Eg8FJU8/tAoGBAMNDomPfszk9AzE/HKwV\nzkN0L7bkDD7iA/tHdDQG1tr574t8lwq8ZWBVDsgUzf+zZwlrAdSCiQysVr3fmrdZ\nBNlm2qV6yNyeuv0m3tCeZ4KMDs/7FbXPjNB99XM4b7JVyen8+wJ78K+zFuEFAeX7\nVS9OqotQVvEyMnsFyX3toXeg\n-----END PRIVATE KEY-----\n",
+  "client_email": "recpseraccount@recipeproject-167621.iam.gserviceaccount.com",
+  "client_id": "106231629228934420942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/recpseraccount%40recipeproject-167621.iam.gserviceaccount.com"
+}

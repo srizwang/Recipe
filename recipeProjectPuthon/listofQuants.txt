@@ -1,0 +1,23 @@
+Task
+
+Make a list of all possible ingredients used in recipes.
+
+Steps:
+1. Make a file called 'foodList.txt' and open it in any text editor
+2. Open a resource such as a recipe website, a food list, a list of vegetables etc
+3. Copy all the ingredients you can find into the foodList.txt file in separate lines
+
+Sample of file :
+
+olive oil
+butter
+flour
+sesame seed
+sesame seeds
+Eggs
+egg
+
+
+Notes:
+1. It's okay for letters to be captilazied or uncapitalized.
+2. If you enter an ingredient that also makes a valid plural ingredient, add the plural form as well. For e.g. if you are entering sesame seed, please enter sesame seeds as another ingredient in the next line. However if you have an ingredient like olive oil, please do not enter olive oils in another line as that does not make sense.
